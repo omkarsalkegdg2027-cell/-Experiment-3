@@ -9,6 +9,6 @@ while num > 0:
     num = num // 10
 
 if original == reverse:
-    print("Yes, it is a palindrome number!")
+    print("Yes! The number is a palindrome.")
 else:
-    print("No, it is not a palindrome number!")
+    print("No! The number is not a palindrome.")
